@@ -1,0 +1,24 @@
+body {
+	margin-left: 10%;
+	margin-right:10%;
+}
+
+.panel-success {
+	background-color: #EEF9D1;
+}
+
+.panel-warning {
+	background-color: #F9F2D1;
+}
+
+.panel-danger {
+	background-color: #F9DAD1;
+}
+
+.container-fluid {
+	background-color: #BAB9B8;
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+}
